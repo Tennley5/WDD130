@@ -1,0 +1,40 @@
+/* *{
+    border: 1px solid;
+} */
+
+body{
+    font-size: 2em;
+}
+
+li{
+    background-color: red; 
+    display: inline-block;
+    width: 100px;
+    font-size: 1.2em;
+}
+
+img{
+    max-width: 100%;
+}
+
+a:link, a:visited{
+    color: salmon;
+}
+
+a:hover{
+    color: purple;
+    text-decoration: none;
+}
+
+.banner{
+    width: 100%;
+    max-width: 860px;
+ 
+}
+
+.active{
+    color: white !important;
+}
+.green{
+    background-color: green;
+}

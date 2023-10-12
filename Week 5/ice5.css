@@ -1,0 +1,25 @@
+.radius img{
+    border-radius: 50%;
+    width: 20%;
+    border: 15px;
+    border-style: solid;
+    border-color: #5A5A5A;
+}
+.radius{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+
+.background{
+    background-color: gray;
+}
+
+.body{
+    max-width: 100%;
+    padding: 10mm;
+}
+.header img{
+    width: 100%;
+    margin-bottom: -4px;
+}
